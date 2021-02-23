@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T07:08:14.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="9tsFSbEgl9jfB5-HKHbi" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T07:10:13.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="6Jhv-1FV4dCRp0lroq5_" version="14.4.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3295" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="8gJjFFY2pVBGSUi6WzXW-175" value="在途" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1742.6851733201797" y="936.5060240963855" width="361.53673412985677" height="64.3370725894309" as="geometry" />
         </mxCell>
-        <mxCell id="8gJjFFY2pVBGSUi6WzXW-217" value="&lt;span style=&quot;font-size: 15px&quot;&gt;实时查询在途信息&lt;br&gt;&lt;/span&gt;" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;dashed=1;fillColor=#C7D5E0;strokeColor=#1F3B52;" parent="1" vertex="1">
+        <mxCell id="8gJjFFY2pVBGSUi6WzXW-217" value="&lt;span style=&quot;font-size: 15px&quot;&gt;在途信息&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;实时查询&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;dashed=1;fillColor=#C7D5E0;strokeColor=#1F3B52;" parent="1" vertex="1">
           <mxGeometry x="1440" y="1355.0073644117272" width="950" height="80.4194728823454" as="geometry" />
         </mxCell>
         <mxCell id="8gJjFFY2pVBGSUi6WzXW-178" value="送达/签收" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -171,11 +171,11 @@
         <mxCell id="R8xT18yA5sv1bF3o99iS-154" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;签订合同&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffb917&quot;&gt;收预付款&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1533.549745981119" width="160" height="80.4194728823454" as="geometry" />
         </mxCell>
-        <mxCell id="R8xT18yA5sv1bF3o99iS-188" value="&lt;span style=&quot;font-size: 15px&quot;&gt;实时查询订单信息&lt;br&gt;&lt;/span&gt;" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;dashed=1;fillColor=#C7D5E0;strokeColor=#1F3B52;" vertex="1" parent="1">
-          <mxGeometry x="339.92" y="1030" width="2400.08" height="80.42" as="geometry" />
+        <mxCell id="R8xT18yA5sv1bF3o99iS-188" value="&lt;span style=&quot;font-size: 15px&quot;&gt;订单信息实时查询&lt;br&gt;&lt;/span&gt;" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;dashed=1;fillColor=#C7D5E0;strokeColor=#1F3B52;" vertex="1" parent="1">
+          <mxGeometry x="339.92" y="1030" width="2410.08" height="80.42" as="geometry" />
         </mxCell>
-        <mxCell id="R8xT18yA5sv1bF3o99iS-190" value="&lt;span style=&quot;font-size: 15px&quot;&gt;实时查询订单信息&lt;br&gt;&lt;/span&gt;" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;dashed=1;fillColor=#C7D5E0;strokeColor=#1F3B52;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1830" width="1300" height="80.42" as="geometry" />
+        <mxCell id="R8xT18yA5sv1bF3o99iS-190" value="&lt;span style=&quot;font-size: 15px&quot;&gt;订单信息实时查询&lt;br&gt;&lt;/span&gt;" style="rounded=1;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;dashed=1;fillColor=#C7D5E0;strokeColor=#1F3B52;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1830" width="1310" height="80.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
